@@ -9,6 +9,11 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 - 🤓 I’m currently learning React.js, Node.js
 - 🤝🏻 I’m looking to collaborate as a frontend developer in a great StartUp
+
+### My projects on GitHub
+
+* Layout [Batatabit](https://andresbadillo.github.io/layout_batatabit/)
+* Layout [Menu Restaurant](https://andresbadillo.github.io/Demo_Layout_GRID/)
  
  ### [Contact me!](https://www.andresbadillo.co/contacto)
 
