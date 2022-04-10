@@ -1,4 +1,24 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+Hello, I'm Andres Badillo, and I want to talk to you a little bit about me: 
+
+>Project Manager - SCRUM | Team Leader | Frontend and Mobile Developer.
+
+>🎸 Musician, 🛫 Backpacker and ☕ Coffe lover...  
+  
+
+- 🤓 I’m currently learning React.js, Node.js
+- 🤝🏻 I’m looking to collaborate as a frontend developer in a great StartUp
+ 
+ ### [Contact me!](https://www.andresbadillo.co/contacto)
+
+`<🌎 Website>` : <https://www.andresbadillo.co/>
+
+`<💼 LinkedIn>` : <https://www.linkedin.com/in/raul-andres-badillo-jaimes/>
+
+`<🎈 Instagram>` : <https://www.instagram.com/andresbadillo.co/>
+
+`<🏋🏻‍♂️ TikTok>` : <https://www.tiktok.com/@andresbadillo.co>
 
 <!--
 **andresbadillo/andresbadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
