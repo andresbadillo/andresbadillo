@@ -14,6 +14,8 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 `<🌎 Website>` : <https://www.andresbadillo.co/>
 
+`<📰 Blog>` : <https://www.andresbadillo.co/blog>
+
 `<💼 LinkedIn>` : <https://www.linkedin.com/in/raul-andres-badillo-jaimes/>
 
 `<🎈 Instagram>` : <https://www.instagram.com/andresbadillo.co/>
