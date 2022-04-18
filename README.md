@@ -13,6 +13,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 ### My projects on GitHub
 
 * Layout [Batatabit](https://andresbadillo.github.io/layout_batatabit/)
+* Layout [Blog](https://andresbadillo.github.io/layout_blog/)
 * Layout [Menu Restaurant](https://andresbadillo.github.io/Demo_Layout_GRID/)
 * Layout [Google](https://andresbadillo.github.io/layout_google/)
  
