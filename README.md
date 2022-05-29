@@ -16,7 +16,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 * Layout [Blog](https://andresbadillo.github.io/layout_blog/)
 * Layout [Menu Restaurant](https://andresbadillo.github.io/Demo_Layout_GRID/)
 * Layout [Google](https://andresbadillo.github.io/layout_google/)
-* Calculadora de [Figuras Geométricas]([https://andresbadillo.github.io/layout_google/](https://andresbadillo.github.io/curso-practico-javascript/taller_1/figuras.html))
+* Calculadora de [Figuras Geométricas]([https://andresbadillo.github.io/layout_google/](https://andresbadillo.github.io/curso-practico-javascript/taller_1/figuras.html)
 
 ### What about drawing in CSS? 😎
 
