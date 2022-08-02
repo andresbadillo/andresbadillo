@@ -3,6 +3,7 @@
 Hello, I'm Andres Badillo, and I want to talk to you a little bit about me: 
 
 >Project Manager - SCRUM | Team Leader | Frontend and Mobile Developer.
+>HTML | CSS | JavaScript | Flutter
 
 >🎸 Musician, 🛫 Backpacker and ☕ Coffe lover...  
   
