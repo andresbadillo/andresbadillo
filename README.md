@@ -14,13 +14,13 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 ### My projects on GitHub
 
-* Flutter [DemoApp Components](https://github.com/andresbadillo/flutter_demo_app)
-* Layout [Batatabit](https://andresbadillo.github.io/layout_batatabit/)
-* Layout [Blog](https://andresbadillo.github.io/layout_blog/)
-* Layout [Menu Restaurant](https://andresbadillo.github.io/Demo_Layout_GRID/)
-* Layout [Google](https://andresbadillo.github.io/layout_google/)
-* Layout [YardSale | Tienda online de cositas](https://andresbadillo.github.io/curso-frontend-developer-JavaScript-practico/)
-* [Calculadoras con Javascript](https://andresbadillo.github.io/curso-practico-javascript/index.html)
+* Flutter: [DemoApp Components](https://github.com/andresbadillo/flutter_demo_app)
+* HTML-CSS: [Layout Batatabit](https://andresbadillo.github.io/layout_batatabit/)
+* HTML-CSS: [Layout Blog](https://andresbadillo.github.io/layout_blog/)
+* HTML-CSS: [Layout Menu Restaurant](https://andresbadillo.github.io/Demo_Layout_GRID/)
+* HTML-CSS: [Layout Google](https://andresbadillo.github.io/layout_google/)
+* HTML-CSS: [Layout YardSale | Tienda online de cositas](https://andresbadillo.github.io/curso-frontend-developer-JavaScript-practico/)
+* HTML-CSS-JS: [Calculadoras con Javascript](https://andresbadillo.github.io/curso-practico-javascript/index.html)
 
 ### What about drawing in CSS? 😎
 
