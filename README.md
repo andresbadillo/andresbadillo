@@ -14,6 +14,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 ### My projects on GitHub
 
+* Flutter: [Movies App](https://github.com/andresbadillo/flutter_movies_app)
 * Flutter: [DemoApp Components](https://github.com/andresbadillo/flutter_demo_app)
 * HTML-CSS: [Layout Batatabit](https://andresbadillo.github.io/layout_batatabit/)
 * HTML-CSS: [Layout YardSale | Tienda online de cositas](https://andresbadillo.github.io/curso-frontend-developer-JavaScript-practico/)
