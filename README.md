@@ -43,14 +43,14 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 ## My projects on GitHub
 
-* React: [TODO Machine](https://andresbadillo.github.io/TODO_machine/)
+* React: [TODO Machine](https://shopi-ab.netlify.app/)
+* React: [Shopi](https://andresbadillo.github.io/TODO_machine/)
 * Flutter: [Movies App](https://github.com/andresbadillo/flutter_movies_app)
 * Flutter: [DemoApp Components](https://github.com/andresbadillo/flutter_demo_app)
 * HTML-CSS-JS: [Movies App - Mobile - Web](https://andresbadillo.github.io/js_movies_app/)
 * HTML-CSS-JS: [Videogame](https://andresbadillo.github.io/taller_javascript_videogame/)
 * HTML-CSS-JS: [Calculadoras con Javascript](https://andresbadillo.github.io/curso-practico-javascript/index.html)
 * HTML-CSS: [Layout Batatabit](https://andresbadillo.github.io/layout_batatabit/)
-* HTML-CSS: [Layout YardSale | Tienda online de cositas](https://andresbadillo.github.io/curso-frontend-developer-JavaScript-practico/)
 * HTML-CSS: [Layout Blog](https://andresbadillo.github.io/layout_blog/)
 
 ### What about drawing in CSS? 😎
