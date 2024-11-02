@@ -44,8 +44,8 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 ## My projects on GitHub
 
-* React: [TODO Machine](https://shopi-ab.netlify.app/)
-* React: [Shopi](https://andresbadillo.github.io/TODO_machine/)
+* React: [TODO Machine](https://andresbadillo.github.io/TODO_machine/)
+* React: [Shopi](https://shopi-ab.netlify.app/)
 * Flutter: [Movies App](https://github.com/andresbadillo/flutter_movies_app)
 * Flutter: [DemoApp Components](https://github.com/andresbadillo/flutter_demo_app)
 * HTML-CSS-JS: [Movies App - Mobile - Web](https://andresbadillo.github.io/js_movies_app/)
