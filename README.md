@@ -5,7 +5,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 >MBA | Project Manager - SCRUM | Team Manager | Frontend and Mobile Developer.
 
 <h2 align="left">Languages and Tools:</h2>
-<h3 align="center">Datanalisis & Datascience:</h3>
+<h3 align="center">Datanalysis & Datascience:</h3>
 <p align="center"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="html5" width="50" height="50"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="css3" width="50" height="50"/></a>
