@@ -2,7 +2,7 @@
 
 Hello, I'm Andres Badillo, and I want to talk to you a little bit about me: 
 
->MBA | Project Manager - SCRUM | Team Manager | Frontend and Mobile Developer.
+>MBA | Project Manager - SCRUM | Team Manager | Data Analyst | Frontend and Mobile Developer.
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="center">Datanalysis & Datascience:</h3>
