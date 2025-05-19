@@ -53,6 +53,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 ## My projects on GitHub
 
+* Python: [Analisis de Tarifas](https://tarifasruitoque.streamlit.app/)
 * React: [TODO Machine](https://andresbadillo.github.io/TODO_machine/)
 * React: [Shopi](https://shopi-ab.netlify.app/)
 * React: [Book a fly](https://andresbadillo.github.io/book_a_fly/)
