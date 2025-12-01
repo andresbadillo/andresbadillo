@@ -48,7 +48,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 
 <h2 align="left">Hobbies:</h2>
-🏋🏻‍♂️ GymLover, 🎸 Musician, 🛫 Backpacker and ☕ Coffe lover...  
+🏋🏻‍♂️ GymLover, 🎸 Musician, 📖 Reader and ☕ Coffe lover...  
  
 
 ## My projects on GitHub
