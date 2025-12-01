@@ -43,7 +43,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
  <h3 align="left">More...</h3>
 
-- 🤓 I’m currently learning Python, React.js, Flutter and Node.js
+- 🤓 I’m currently learning Python, Data-science, Machine Learning, React.js, Flutter and Node.js
 
 - 🤝🏻 I’m looking to collaborate as a frontend developer in a great StartUp
 
