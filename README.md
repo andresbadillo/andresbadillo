@@ -7,6 +7,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="center">Datanalysis & Datascience:</h3>
 <p align="center"> 
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="html5" width="50" height="50"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="html5" width="50" height="50"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="css3" width="50" height="50"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="css3" width="50" height="50"/></a>
