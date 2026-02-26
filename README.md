@@ -62,7 +62,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 * React: <a href="https://andresbadillo.github.io/book_a_fly/" target="_blank" rel="noopener noreferrer">Book a fly</a>
 * Flutter: <a href="https://github.com/andresbadillo/flutter_movies_app" target="_blank" rel="noopener noreferrer">Movies App</a>
 * Flutter: <a href="https://github.com/andresbadillo/flutter_demo_app" target="_blank" rel="noopener noreferrer">DemoApp Components</a>
-* HTML-CSS-JS: <a href="https://andresbadillo.github.io/movies_app2/" target="_blank" rel="noopener noreferrer">Movies App - Mobile - Web</a>
+* HTML-CSS-JS: <a href="https://andresbadillo.github.io/movies_app/" target="_blank" rel="noopener noreferrer">Movies App - Mobile - Web</a>
 * HTML-CSS-JS: <a href="https://andresbadillo.github.io/taller_javascript_videogame/" target="_blank" rel="noopener noreferrer">Videogame</a>
 * HTML-CSS-JS: <a href="https://andresbadillo.github.io/curso-practico-javascript/index.html" target="_blank" rel="noopener noreferrer">Calculadoras con Javascript</a>
 * HTML-CSS: <a href="https://andresbadillo.github.io/layout_batatabit/" target="_blank" rel="noopener noreferrer">Layout Batatabit</a>
