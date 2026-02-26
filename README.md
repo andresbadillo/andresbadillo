@@ -70,7 +70,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 ### What about drawing in CSS? 😎
 
-* [Here!!](https://andresbadillo.github.io/logo_batman/)
+* <a href="https://andresbadillo.github.io/dibujo_css_1/" target="_blank" rel="noopener noreferrer">Here!!</a>
 
 <img width="1873" height="912" alt="Sin título" src="https://github.com/user-attachments/assets/600fc4f3-3743-4c3c-90e9-22fbc47913e3" />
 
