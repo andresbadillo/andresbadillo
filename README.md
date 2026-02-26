@@ -56,17 +56,17 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 ## My projects on GitHub
 
 * Python: <a href="https://liquidacionagpe.streamlit.app/" target="_blank" rel="noopener noreferrer">Liquidación AGPE</a>
-* Python: [Analisis de Tarifas](https://tarifasruitoque.streamlit.app/)
-* React: [TODO Machine](https://andresbadillo.github.io/TODO_machine/)
-* React: [Shopi](https://shopi-ab.netlify.app/)
-* React: [Book a fly](https://andresbadillo.github.io/book_a_fly/)
-* Flutter: [Movies App](https://github.com/andresbadillo/flutter_movies_app)
-* Flutter: [DemoApp Components](https://github.com/andresbadillo/flutter_demo_app)
-* HTML-CSS-JS: [Movies App - Mobile - Web](https://andresbadillo.github.io/js_movies_app/)
-* HTML-CSS-JS: [Videogame](https://andresbadillo.github.io/taller_javascript_videogame/)
-* HTML-CSS-JS: [Calculadoras con Javascript](https://andresbadillo.github.io/curso-practico-javascript/index.html)
-* HTML-CSS: [Layout Batatabit](https://andresbadillo.github.io/layout_batatabit/)
-* HTML-CSS: [Layout Blog](https://andresbadillo.github.io/layout_blog/)
+* Python: <a href="https://tarifasruitoque.streamlit.app/" target="_blank" rel="noopener noreferrer">Analisis de Tarifas</a>
+* React: <a href="https://andresbadillo.github.io/TODO_machine/" target="_blank" rel="noopener noreferrer">TODO Machine</a>
+* React: <a href="https://shopi-ab.netlify.app/" target="_blank" rel="noopener noreferrer">Shopi</a>
+* React: <a href="https://andresbadillo.github.io/book_a_fly/" target="_blank" rel="noopener noreferrer">Book a fly</a>
+* Flutter: <a href="https://github.com/andresbadillo/flutter_movies_app" target="_blank" rel="noopener noreferrer">Movies App</a>
+* Flutter: <a href="https://github.com/andresbadillo/flutter_demo_app" target="_blank" rel="noopener noreferrer">DemoApp Components</a>
+* HTML-CSS-JS: <a href="https://andresbadillo.github.io/movies_app2/" target="_blank" rel="noopener noreferrer">Movies App - Mobile - Web</a>
+* HTML-CSS-JS: <a href="https://andresbadillo.github.io/taller_javascript_videogame/" target="_blank" rel="noopener noreferrer">Videogame</a>
+* HTML-CSS-JS: <a href="https://andresbadillo.github.io/curso-practico-javascript/index.html" target="_blank" rel="noopener noreferrer">Calculadoras con Javascript</a>
+* HTML-CSS: <a href="https://andresbadillo.github.io/layout_batatabit/" target="_blank" rel="noopener noreferrer">Layout Batatabit</a>
+* HTML-CSS: <a href="https://andresbadillo.github.io/layout_blog/" target="_blank" rel="noopener noreferrer">Layout Blog</a>
 
 ### What about drawing in CSS? 😎
 
