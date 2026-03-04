@@ -32,6 +32,10 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
+ <a href="https://www.microsoft.com/es-co/power-platform/try-free" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" alt="powerplatform" width="50" height="50"/></a>
+ <a href="https://www.microsoft.com/es-es/power-platform/products/power-apps" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" alt="powerapps" width="50" height="50"/></a>
+ <a href="https://www.microsoft.com/es-es/power-platform/products/power-automate" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="powerautomate" width="50" height="50"/></a>
+ <a href="https://www.microsoft.com/es-co/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/microsoft-sharepoint-2025.png" alt="sharepoint" width="50" height="50"/></a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a>
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
