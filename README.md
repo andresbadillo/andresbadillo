@@ -7,15 +7,46 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 <h2 align="left">Languages and Tools:</h2>
 
 <h3 align="center">Datanalysis & Datascience:</h3>
-<p align="center"> 
-<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="html5" width="50" height="50"/></a>&nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="html5" width="50" height="50"/></a>&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="css3" width="50" height="50"/></a>&nbsp;
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="css3" width="50" height="50"/></a>&nbsp;
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="css3" width="50" height="50"/></a>&nbsp;
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="css3" width="50" height="50"/></a>&nbsp;
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="css3" width="50" height="50"/></a>&nbsp;
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi">
+        <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pandas.pydata.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://numpy.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jupyter.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://matplotlib.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://scikit-learn.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Frontend:</h3>
 <p align="center"> 
