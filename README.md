@@ -25,12 +25,14 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="70" height="50"/></a>&nbsp;
 </p>
+
 <h3 align="center">Mobile:</h3>
 <p align="center">
 <a  href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/></a>&nbsp;
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/></a>&nbsp;
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="50" height="50"/></a>&nbsp;
 </p>
+
 <h3 align="center">Tools:</h3>
 <p align="center">
  <a href="https://www.microsoft.com/es-co/power-platform/try-free" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" alt="powerplatform" width="50" height="50"/></a>&nbsp;
