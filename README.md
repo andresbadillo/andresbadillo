@@ -103,8 +103,9 @@ I enjoy creating products and tools that are not only functional, but also clear
 
 <img width="1873" height="912" alt="Sin título" src="https://github.com/user-attachments/assets/600fc4f3-3743-4c3c-90e9-22fbc47913e3" />
 
+---
  
-## [Contact me!](https://www.andresbadillo.co/contacto)
+## [Let's connect!](https://www.andresbadillo.co/contacto)
 
 `<🌎 Website>` : <https://www.andresbadillo.co/>
 
