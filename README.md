@@ -6,7 +6,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 <h2 align="left">Languages and Tools:</h2> 
 
-<h3 align="center">Datanalysis & Datascience:</h3> 
+<h3 align="center">Data Analysis & Data Science:</h3> 
 <p align="center"> 
   <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="html5" width="50" height="50"/></a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="html5" width="50" height="50"/></a> 
@@ -54,7 +54,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
 
 
 <h2 align="left">Hobbies:</h2>
-🏋🏻‍♂️ GymLover, 🎸 Musician, 📖 Reader & ☕ Coffe lover...  
+🏋🏻‍♂️ Gym Lover, 🎸 Musician, 📖 Reader & ☕ Coffe Lover...  
  
 
 ## My projects on GitHub
