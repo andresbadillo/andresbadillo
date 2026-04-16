@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Andrés Badillo 👋</h1>
 
 <p align="center">
-  MBA · Project Manager · SCRUM · Team Manager · Data Analyst · Frontend & Mobile Developer
+  MBA · Project Manager · SCRUM · Team Manager · Data Science · Data Analyst · Frontend & Mobile Developer
 </p>
 
 <p align="center">
