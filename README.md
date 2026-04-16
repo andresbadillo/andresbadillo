@@ -1,10 +1,30 @@
-## Welcome to my profile 👋
+<h1 align="center">Hi there, I'm Andrés Badillo 👋</h1>
 
-Hello, I'm Andres Badillo, and I want to talk to you a little bit about me: 
+<p align="center">
+  MBA · Project Manager · SCRUM · Team Manager · Data Analyst · Frontend & Mobile Developer
+</p>
 
->MBA | Project Manager - SCRUM | Team Manager | Data scientist & Analyst | Frontend and Mobile Developer.
+<p align="center">
+  I build software, dashboards, and digital experiences that turn complexity into clarity, action, and impact.
+</p>
 
-<h2 align="left">Languages and Tools:</h2> 
+---
+
+## About me
+
+I'm Andrés Badillo, a professional passionate about building solutions that connect **business, data, and technology**.
+
+I enjoy creating products and tools that are not only functional, but also clear, scalable, and user-centered. My work blends **data analysis, software development, automation, and product thinking**.
+
+- 📊 Data Analyst & Data Science enthusiast  
+- 💻 Frontend Developer  
+- 📱 Mobile Developer  
+- ⚙️ Power Platform Builder  
+- 🚀 Always learning and building  
+
+---
+
+## Tech Stack
 
 <h3 align="center">Data Analysis & Data Science:</h3> 
 <p align="center"> 
@@ -15,7 +35,7 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="css3" width="50" height="50"/></a> 
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="css3" width="50" height="50"/></a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="css3" width="50" height="50"/></a> 
-</p> 
+</p>
 
 <h3 align="center">Frontend:</h3> 
 <p align="center"> 
@@ -46,18 +66,23 @@ Hello, I'm Andres Badillo, and I want to talk to you a little bit about me:
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/></a> 
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" alt="streamlit" width="50" height="50"/></a> </p>
 
- <h3 align="left">More...</h3>
+---
 
-- 🤓 I’m currently learning Python, Data-science, Machine Learning, React.js, Flutter and Node.js
+## Currently
 
-- 🤝🏻 I’m looking to collaborate as a frontend developer in a great StartUp
+- 🤓 Learning more about **Python, Data Science, Machine Learning, React, Flutter, and Node.js**
+- 🤝 Looking to collaborate as a **Frontend Developer** in a great startup
+- 🧠 Building projects where **data, software, and business meet**
 
+---
 
-<h2 align="left">Hobbies:</h2>
-🏋🏻‍♂️ Gym Lover, 🎸 Musician, 📖 Reader & ☕ Coffe Lover...  
- 
+## Hobbies
 
-## My projects on GitHub
+🏋🏻‍♂️ Gym lover · 🎸 Musician · 📖 Reader · ☕ Coffee lover
+
+---
+
+## Featured Projects
 
 * Python: <a href="https://liquidacionagpe.streamlit.app/" target="_blank" rel="noopener noreferrer">Liquidación AGPE</a>
 * Python: <a href="https://tarifasruitoque.streamlit.app/" target="_blank" rel="noopener noreferrer">Analisis de Tarifas</a>
